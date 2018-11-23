@@ -1,0 +1,120 @@
+body {
+    font-family: sans-serif;
+    }
+
+h1 {
+    font-size: 36px;
+    font-weight: 100;
+    color: #696969;
+    }
+
+h2 {
+    font-size: 18px;
+    font-weight: 100;
+    color: #696969;
+    }
+
+p {
+    font-size: 14px;
+    color: #696969;
+    margin: 30px;
+    }
+
+.fbutton {
+    font-size: 11px;
+    text-decoration: none;
+    padding: 10px;
+    position: relative;
+    color: #696969;
+    }
+
+#fbuttons {
+    margin-left: 30px;
+    height: 35px;
+    padding-top: 10px;
+    }
+
+#logo {
+    width: 110px;
+    }
+
+#avatar {
+    width: 100px;
+    margin: 40px;
+    }
+
+#input {
+    width: 70%;
+    height: 26px;
+    background-color: #ffffb2;
+    padding: 7px;
+    font-size: 14px;
+    margin-top: -15px;
+    }
+
+#next {
+    width: 75%;
+    height: 26px;
+    background-color: #4885ed;
+    margin: 5px 0px 10px 0px;
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5%;
+    height: 36px;
+    padding: 7px;
+    }
+
+#box {
+    background-color: #f6f5f5;
+    width: 25%;
+    margin: 0 auto;
+    height: 320px;
+    border-radius: 1%;
+    }
+
+#help {
+    text-decoration: none;
+    color: #4885ed;
+    font-size: 12px;
+    float: right;
+    margin-right: 45px;
+    }
+
+#create {
+    font-size: 14px;
+    color: #4885ed;
+    text-decoration: none;
+    }
+
+#underbox {
+    padding: 20px;
+    }
+
+#header {
+    margin: 0 auto;
+    width: 35%;
+    text-align: center;
+    margin-top: 20px;
+    }
+
+#signin {
+    text-align: center;
+    }
+
+#footer {
+    bottom: 0;
+    position: absolute;
+    height: 20px;
+    background-color: #f8f7f7;
+    border-top: 1px solid #dcdfe0;
+    width: 100%;
+    left: 0;
+    padding: 8px;
+    }
+
+#language {
+    float: right;
+    margin-right: 30px;
+    }

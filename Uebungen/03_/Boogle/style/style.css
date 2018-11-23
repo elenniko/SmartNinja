@@ -1,0 +1,128 @@
+body {
+    font-family: arial, sans-serif;
+    }
+
+header {
+    float: right;
+    height: 50px;
+    padding-top: 5px;
+    font-size: 13px;
+    text-decoration: none;
+    color: #0e1717;
+    }
+
+.menu {
+    margin: 10px;
+    }
+
+#signup {
+    background-color: #4885ed;
+    padding: 10px;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    font-weight: 700;
+    font-size: 12px;
+    }
+
+a {
+    text-decoration: none;
+    }
+
+p {
+    margin-left: 35px;
+    }
+
+#voicesearch {
+    width: 15px;
+    float: right;
+    padding: 10px 20px;
+    }
+
+/*.hbuttons {
+    color: #0e1717;
+    }*/
+
+#fbuttons-right {
+    float: right;
+    margin-right: 20px;
+    }
+
+#fbuttons-left {
+    margin-left: 20px;
+    }
+
+#footer {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    background-color: #f1f1f1;
+    width: 100%;
+    color: #606060;
+    }
+
+.hbuttons {
+    margin: 20px;
+    padding: 3px 0;
+    }
+
+#container1 {
+    width: 20%;
+    margin: 0 auto;
+    }
+
+#container2 {
+    width: 40%;
+    margin: 0 auto;
+    border: 1px solid #d3d3d3;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    }
+
+#container3 {
+    width: 20%;
+    margin: 0 auto;
+    }
+
+#logo {
+    margin-top: 150px;
+    width: 272px;
+    }
+
+#search {
+    width: 80%;
+    height: 40px;
+    padding-left: 20px;
+    font-size: 17px;
+    }
+
+#footer-top {
+    border-top: 1px solid #d3d3d3;
+    border-bottom: 1px solid #d3d3d3;
+    height: 40px;
+    font-size: 15px;
+    }
+
+#fbuttons {
+    height: 30px;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 300px;
+    margin-top: 10px;
+    }
+
+.fbuttons {
+    padding: 15px;
+    text-decoration: none;
+    color: #606060;
+    }
+
+.searchbuttons {
+    font-size: 13px;
+    font-weight: 700;
+    color: #606060;
+    background-color: #f1f1f1;
+    border: none;
+    padding: 10px;
+    margin: 4px;
+    }
