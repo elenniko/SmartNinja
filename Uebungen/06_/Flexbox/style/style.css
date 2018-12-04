@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    /*flex-wrap: wrap;*/
+    margin: 40px auto 0 auto;
+    width: 75%;
+    /*align-items: flex-start/end/center;*/
+    justify-content: space-between;
+    height: 1000px;
+    }
+
+.box {
+    width: 30%;
+    /*width: 400px;*/
+    }
+
+#main {
+    background-color: pink;
+    /*flex: 2;*/
+    }
+
+#left {
+    background-color: gray;
+    /*flex: 1;*/
+    }
+
+#right {
+    background-color: blue;
+    /*flex: 1;*/
+    }
